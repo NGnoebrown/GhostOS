@@ -161,6 +161,7 @@ The `AIFunc` is able to call other `AIFunc` during processing to accomplish comp
 run test case:
 
 ```bash
+cd ghostos/demo
 venv/bin/python ghostos/demo/src/examples/run_aifunc_test.py
 ```
 
